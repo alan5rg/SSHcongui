@@ -73,7 +73,7 @@ class MenuBar(QMainWindow):
         color = QColorDialog.getColor()
         if color.isValid():
             if element_type == 'background':
-                self.current_background_color = color.name()  # Guardar el color de texto actual
+                self.current_background_color = color.name()  # Guardar el color de fondo actual
                 self.parent().setStyleSheet(f"background-color: {color.name()}; color: {self.current_text_color};")
             elif element_type == 'text':
                 self.current_text_color = color.name()  # Guardar el color de texto actual
