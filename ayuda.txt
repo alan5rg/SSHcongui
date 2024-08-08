@@ -1,0 +1,25 @@
+SSHconGUI Connector - Ayuda
+
+Uso de la Aplicación:
+
+#Agregar una nueva conexión:
+    En la sección principal de la aplicación, encontrarás campos de texto donde puedes ingresar el nombre de la conexión, el nombre de usuario y la dirección IP del servidor SSH.
+    Después de ingresar estos detalles, haz clic en el botón "Add Connection" para guardar la conexión en la lista.
+
+#Ver y seleccionar conexiones guardadas:
+    Las conexiones que agregues se mostrarán en una tabla en la parteinferior de la ventana.
+    Puedes seleccionar cualquier conexión haciendo clic en la fila correspondiente.
+
+#Conectar a un servidor SSH:
+    Selecciona la conexión deseada en la tabla y haz clic en el botón "Connect".
+    Esto abrirá una terminal y ejecutará el comando SSH correspondiente para conectarte al servidor.
+
+#Eliminar una conexión:
+    Selecciona la conexión que deseas eliminar en la tabla y haz clic en el botón "Delete Selected".
+    La conexión será eliminada de la lista.
+
+Notas:
+
+Asegúrate de que las direcciones IP estén en el formato correcto (ejemplo: 192.168.1.1).
+
+Si cambias los colores de la interfaz, se aplicarán de inmediato pero no se guardarán.
