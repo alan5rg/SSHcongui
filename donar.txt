@@ -8,6 +8,6 @@ por app o billetera virtual al alias:
 buzos.hay.domar.mp
     
 # En Argentina y Resto del Mundo
-USDT por redes BEP20, Polygon o Optimism a la dirección:
+USDT por redes BEP20 a la dirección:
    
-0x104948b1A1AaD3437328aDDcc0A2E5A2679D4192
+0x905a61f2a6e6257cd0020b319cf222095d3b88e4
